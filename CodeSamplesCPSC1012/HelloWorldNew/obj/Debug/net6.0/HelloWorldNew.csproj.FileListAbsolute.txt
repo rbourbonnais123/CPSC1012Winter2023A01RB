@@ -1,0 +1,15 @@
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\HelloWorldNew\bin\Debug\net6.0\HelloWorldNew.exe
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\HelloWorldNew\bin\Debug\net6.0\HelloWorldNew.deps.json
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\HelloWorldNew\bin\Debug\net6.0\HelloWorldNew.runtimeconfig.json
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\HelloWorldNew\bin\Debug\net6.0\HelloWorldNew.dll
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\HelloWorldNew\bin\Debug\net6.0\HelloWorldNew.pdb
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\HelloWorldNew\obj\Debug\net6.0\HelloWorldNew.csproj.AssemblyReference.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\HelloWorldNew\obj\Debug\net6.0\HelloWorldNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\HelloWorldNew\obj\Debug\net6.0\HelloWorldNew.AssemblyInfoInputs.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\HelloWorldNew\obj\Debug\net6.0\HelloWorldNew.AssemblyInfo.cs
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\HelloWorldNew\obj\Debug\net6.0\HelloWorldNew.csproj.CoreCompileInputs.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\HelloWorldNew\obj\Debug\net6.0\HelloWorldNew.dll
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\HelloWorldNew\obj\Debug\net6.0\refint\HelloWorldNew.dll
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\HelloWorldNew\obj\Debug\net6.0\HelloWorldNew.pdb
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\HelloWorldNew\obj\Debug\net6.0\HelloWorldNew.genruntimeconfig.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\HelloWorldNew\obj\Debug\net6.0\ref\HelloWorldNew.dll

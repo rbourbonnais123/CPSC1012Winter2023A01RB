@@ -1,0 +1,15 @@
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\PayAttentionWriteLineVariables\bin\Debug\net6.0\PayAttentionWriteLineVariables.exe
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\PayAttentionWriteLineVariables\bin\Debug\net6.0\PayAttentionWriteLineVariables.deps.json
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\PayAttentionWriteLineVariables\bin\Debug\net6.0\PayAttentionWriteLineVariables.runtimeconfig.json
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\PayAttentionWriteLineVariables\bin\Debug\net6.0\PayAttentionWriteLineVariables.dll
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\PayAttentionWriteLineVariables\bin\Debug\net6.0\PayAttentionWriteLineVariables.pdb
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\PayAttentionWriteLineVariables\obj\Debug\net6.0\PayAttentionWriteLineVariables.csproj.AssemblyReference.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\PayAttentionWriteLineVariables\obj\Debug\net6.0\PayAttentionWriteLineVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\PayAttentionWriteLineVariables\obj\Debug\net6.0\PayAttentionWriteLineVariables.AssemblyInfoInputs.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\PayAttentionWriteLineVariables\obj\Debug\net6.0\PayAttentionWriteLineVariables.AssemblyInfo.cs
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\PayAttentionWriteLineVariables\obj\Debug\net6.0\PayAttentionWriteLineVariables.csproj.CoreCompileInputs.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\PayAttentionWriteLineVariables\obj\Debug\net6.0\PayAttentionWriteLineVariables.dll
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\PayAttentionWriteLineVariables\obj\Debug\net6.0\refint\PayAttentionWriteLineVariables.dll
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\PayAttentionWriteLineVariables\obj\Debug\net6.0\PayAttentionWriteLineVariables.pdb
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\PayAttentionWriteLineVariables\obj\Debug\net6.0\PayAttentionWriteLineVariables.genruntimeconfig.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\PayAttentionWriteLineVariables\obj\Debug\net6.0\ref\PayAttentionWriteLineVariables.dll

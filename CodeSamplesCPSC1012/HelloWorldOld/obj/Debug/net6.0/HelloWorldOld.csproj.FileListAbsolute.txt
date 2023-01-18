@@ -1,0 +1,15 @@
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\HelloWorldOld\bin\Debug\net6.0\HelloWorldOld.exe
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\HelloWorldOld\bin\Debug\net6.0\HelloWorldOld.deps.json
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\HelloWorldOld\bin\Debug\net6.0\HelloWorldOld.runtimeconfig.json
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\HelloWorldOld\bin\Debug\net6.0\HelloWorldOld.dll
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\HelloWorldOld\bin\Debug\net6.0\HelloWorldOld.pdb
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\HelloWorldOld\obj\Debug\net6.0\HelloWorldOld.csproj.AssemblyReference.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\HelloWorldOld\obj\Debug\net6.0\HelloWorldOld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\HelloWorldOld\obj\Debug\net6.0\HelloWorldOld.AssemblyInfoInputs.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\HelloWorldOld\obj\Debug\net6.0\HelloWorldOld.AssemblyInfo.cs
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\HelloWorldOld\obj\Debug\net6.0\HelloWorldOld.csproj.CoreCompileInputs.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\HelloWorldOld\obj\Debug\net6.0\HelloWorldOld.dll
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\HelloWorldOld\obj\Debug\net6.0\refint\HelloWorldOld.dll
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\HelloWorldOld\obj\Debug\net6.0\HelloWorldOld.pdb
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\HelloWorldOld\obj\Debug\net6.0\HelloWorldOld.genruntimeconfig.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\HelloWorldOld\obj\Debug\net6.0\ref\HelloWorldOld.dll

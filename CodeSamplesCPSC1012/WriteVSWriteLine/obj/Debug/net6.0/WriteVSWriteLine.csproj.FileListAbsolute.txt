@@ -1,0 +1,15 @@
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\WriteVSWriteLine\bin\Debug\net6.0\WriteVSWriteLine.exe
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\WriteVSWriteLine\bin\Debug\net6.0\WriteVSWriteLine.deps.json
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\WriteVSWriteLine\bin\Debug\net6.0\WriteVSWriteLine.runtimeconfig.json
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\WriteVSWriteLine\bin\Debug\net6.0\WriteVSWriteLine.dll
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\WriteVSWriteLine\bin\Debug\net6.0\WriteVSWriteLine.pdb
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\WriteVSWriteLine\obj\Debug\net6.0\WriteVSWriteLine.csproj.AssemblyReference.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\WriteVSWriteLine\obj\Debug\net6.0\WriteVSWriteLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\WriteVSWriteLine\obj\Debug\net6.0\WriteVSWriteLine.AssemblyInfoInputs.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\WriteVSWriteLine\obj\Debug\net6.0\WriteVSWriteLine.AssemblyInfo.cs
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\WriteVSWriteLine\obj\Debug\net6.0\WriteVSWriteLine.csproj.CoreCompileInputs.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\WriteVSWriteLine\obj\Debug\net6.0\WriteVSWriteLine.dll
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\WriteVSWriteLine\obj\Debug\net6.0\refint\WriteVSWriteLine.dll
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\WriteVSWriteLine\obj\Debug\net6.0\WriteVSWriteLine.pdb
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\WriteVSWriteLine\obj\Debug\net6.0\WriteVSWriteLine.genruntimeconfig.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\WriteVSWriteLine\obj\Debug\net6.0\ref\WriteVSWriteLine.dll

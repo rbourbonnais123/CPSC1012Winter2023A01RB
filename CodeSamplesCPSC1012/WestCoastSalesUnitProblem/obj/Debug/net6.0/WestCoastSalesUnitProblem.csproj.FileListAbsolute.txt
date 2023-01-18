@@ -1,0 +1,15 @@
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\WestCoastSalesUnitProblem\bin\Debug\net6.0\WestCoastSalesUnitProblem.exe
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\WestCoastSalesUnitProblem\bin\Debug\net6.0\WestCoastSalesUnitProblem.deps.json
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\WestCoastSalesUnitProblem\bin\Debug\net6.0\WestCoastSalesUnitProblem.runtimeconfig.json
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\WestCoastSalesUnitProblem\bin\Debug\net6.0\WestCoastSalesUnitProblem.dll
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\WestCoastSalesUnitProblem\bin\Debug\net6.0\WestCoastSalesUnitProblem.pdb
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\WestCoastSalesUnitProblem\obj\Debug\net6.0\WestCoastSalesUnitProblem.csproj.AssemblyReference.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\WestCoastSalesUnitProblem\obj\Debug\net6.0\WestCoastSalesUnitProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\WestCoastSalesUnitProblem\obj\Debug\net6.0\WestCoastSalesUnitProblem.AssemblyInfoInputs.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\WestCoastSalesUnitProblem\obj\Debug\net6.0\WestCoastSalesUnitProblem.AssemblyInfo.cs
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\WestCoastSalesUnitProblem\obj\Debug\net6.0\WestCoastSalesUnitProblem.csproj.CoreCompileInputs.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\WestCoastSalesUnitProblem\obj\Debug\net6.0\WestCoastSalesUnitProblem.dll
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\WestCoastSalesUnitProblem\obj\Debug\net6.0\refint\WestCoastSalesUnitProblem.dll
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\WestCoastSalesUnitProblem\obj\Debug\net6.0\WestCoastSalesUnitProblem.pdb
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\WestCoastSalesUnitProblem\obj\Debug\net6.0\WestCoastSalesUnitProblem.genruntimeconfig.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\WestCoastSalesUnitProblem\obj\Debug\net6.0\ref\WestCoastSalesUnitProblem.dll

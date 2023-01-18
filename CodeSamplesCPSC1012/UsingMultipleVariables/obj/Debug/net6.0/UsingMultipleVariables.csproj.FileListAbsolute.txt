@@ -1,0 +1,15 @@
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\UsingMultipleVariables\obj\Debug\net6.0\UsingMultipleVariables.csproj.AssemblyReference.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\UsingMultipleVariables\obj\Debug\net6.0\UsingMultipleVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\UsingMultipleVariables\obj\Debug\net6.0\UsingMultipleVariables.AssemblyInfoInputs.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\UsingMultipleVariables\obj\Debug\net6.0\UsingMultipleVariables.AssemblyInfo.cs
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\UsingMultipleVariables\obj\Debug\net6.0\UsingMultipleVariables.csproj.CoreCompileInputs.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\UsingMultipleVariables\bin\Debug\net6.0\UsingMultipleVariables.exe
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\UsingMultipleVariables\bin\Debug\net6.0\UsingMultipleVariables.deps.json
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\UsingMultipleVariables\bin\Debug\net6.0\UsingMultipleVariables.runtimeconfig.json
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\UsingMultipleVariables\bin\Debug\net6.0\UsingMultipleVariables.dll
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\UsingMultipleVariables\bin\Debug\net6.0\UsingMultipleVariables.pdb
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\UsingMultipleVariables\obj\Debug\net6.0\UsingMultipleVariables.dll
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\UsingMultipleVariables\obj\Debug\net6.0\refint\UsingMultipleVariables.dll
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\UsingMultipleVariables\obj\Debug\net6.0\UsingMultipleVariables.pdb
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\UsingMultipleVariables\obj\Debug\net6.0\UsingMultipleVariables.genruntimeconfig.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\UsingMultipleVariables\obj\Debug\net6.0\ref\UsingMultipleVariables.dll
