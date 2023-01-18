@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rbourbonnais\\Desktop\\NAIT\\CPSC1012 Winter 2023\\CodeSamplesCPSC1012\\WriteVSWriteLine\\WriteVSWriteLine.csproj": {}
+    "C:\\Users\\rbourbonnais\\Desktop\\NAIT\\CPSC1012 Winter 2023\\CodeSamplesCPSC1012\\CalculateAcresInTractOfLand\\CalculateAcresInTractOfLand.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rbourbonnais\\Desktop\\NAIT\\CPSC1012 Winter 2023\\CodeSamplesCPSC1012\\WriteVSWriteLine\\WriteVSWriteLine.csproj": {
+    "C:\\Users\\rbourbonnais\\Desktop\\NAIT\\CPSC1012 Winter 2023\\CodeSamplesCPSC1012\\CalculateAcresInTractOfLand\\CalculateAcresInTractOfLand.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rbourbonnais\\Desktop\\NAIT\\CPSC1012 Winter 2023\\CodeSamplesCPSC1012\\WriteVSWriteLine\\WriteVSWriteLine.csproj",
-        "projectName": "WriteVSWriteLine",
-        "projectPath": "C:\\Users\\rbourbonnais\\Desktop\\NAIT\\CPSC1012 Winter 2023\\CodeSamplesCPSC1012\\WriteVSWriteLine\\WriteVSWriteLine.csproj",
+        "projectUniqueName": "C:\\Users\\rbourbonnais\\Desktop\\NAIT\\CPSC1012 Winter 2023\\CodeSamplesCPSC1012\\CalculateAcresInTractOfLand\\CalculateAcresInTractOfLand.csproj",
+        "projectName": "CalculateAcresInTractOfLand",
+        "projectPath": "C:\\Users\\rbourbonnais\\Desktop\\NAIT\\CPSC1012 Winter 2023\\CodeSamplesCPSC1012\\CalculateAcresInTractOfLand\\CalculateAcresInTractOfLand.csproj",
         "packagesPath": "C:\\Users\\rbourbonnais\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rbourbonnais\\Desktop\\NAIT\\CPSC1012 Winter 2023\\CodeSamplesCPSC1012\\WriteVSWriteLine\\obj\\",
+        "outputPath": "C:\\Users\\rbourbonnais\\Desktop\\NAIT\\CPSC1012 Winter 2023\\CodeSamplesCPSC1012\\CalculateAcresInTractOfLand\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rbourbonnais\\AppData\\Roaming\\NuGet\\NuGet.Config",
