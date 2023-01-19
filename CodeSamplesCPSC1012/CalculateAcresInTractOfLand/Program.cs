@@ -17,7 +17,6 @@ squareFeetUserSupplied = 87120;
 
 // Declare a variable the holds the calculated number of acres.
 
-
 double calculatedNumberOfAcres;
 
 // Perform the calculation
@@ -29,7 +28,8 @@ calculatedNumberOfAcres = squareFeetUserSupplied / numberOfSquareFeetInOneAcre;
 Console.WriteLine($"The number of acres for the user supplied value is: {calculatedNumberOfAcres}");
 
 /*
- * Things to be aware of and to try:
- *      1. why is the data type used double vs int
- *      2. 
+ * Think about:
+ *      1. Proper names of variables
+ *      2. Why double data type vs int data type
+ */
 
