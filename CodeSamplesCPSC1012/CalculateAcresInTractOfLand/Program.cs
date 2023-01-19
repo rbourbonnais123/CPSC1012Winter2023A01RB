@@ -10,6 +10,7 @@ const double numberOfSquareFeetInOneAcre = 43560;
 /*
  * Declare a variable that holds the number of square feet provided by user.
  * Pretend the user enters in the value 87120
+ * We will not read it for now but 'Hard Code' it.
  */
 
 double squareFeetUserSupplied;
