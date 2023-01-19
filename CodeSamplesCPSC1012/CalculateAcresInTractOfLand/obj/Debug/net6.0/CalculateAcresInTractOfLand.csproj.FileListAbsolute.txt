@@ -1,0 +1,15 @@
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateAcresInTractOfLand\bin\Debug\net6.0\CalculateAcresInTractOfLand.exe
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateAcresInTractOfLand\bin\Debug\net6.0\CalculateAcresInTractOfLand.deps.json
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateAcresInTractOfLand\bin\Debug\net6.0\CalculateAcresInTractOfLand.runtimeconfig.json
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateAcresInTractOfLand\bin\Debug\net6.0\CalculateAcresInTractOfLand.dll
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateAcresInTractOfLand\bin\Debug\net6.0\CalculateAcresInTractOfLand.pdb
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateAcresInTractOfLand\obj\Debug\net6.0\CalculateAcresInTractOfLand.csproj.AssemblyReference.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateAcresInTractOfLand\obj\Debug\net6.0\CalculateAcresInTractOfLand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateAcresInTractOfLand\obj\Debug\net6.0\CalculateAcresInTractOfLand.AssemblyInfoInputs.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateAcresInTractOfLand\obj\Debug\net6.0\CalculateAcresInTractOfLand.AssemblyInfo.cs
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateAcresInTractOfLand\obj\Debug\net6.0\CalculateAcresInTractOfLand.csproj.CoreCompileInputs.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateAcresInTractOfLand\obj\Debug\net6.0\CalculateAcresInTractOfLand.dll
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateAcresInTractOfLand\obj\Debug\net6.0\refint\CalculateAcresInTractOfLand.dll
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateAcresInTractOfLand\obj\Debug\net6.0\CalculateAcresInTractOfLand.pdb
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateAcresInTractOfLand\obj\Debug\net6.0\CalculateAcresInTractOfLand.genruntimeconfig.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateAcresInTractOfLand\obj\Debug\net6.0\ref\CalculateAcresInTractOfLand.dll

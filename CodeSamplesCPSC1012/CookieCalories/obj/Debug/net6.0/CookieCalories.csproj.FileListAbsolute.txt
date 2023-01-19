@@ -1,0 +1,15 @@
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CookieCalories\bin\Debug\net6.0\CookieCalories.exe
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CookieCalories\bin\Debug\net6.0\CookieCalories.deps.json
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CookieCalories\bin\Debug\net6.0\CookieCalories.runtimeconfig.json
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CookieCalories\bin\Debug\net6.0\CookieCalories.dll
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CookieCalories\bin\Debug\net6.0\CookieCalories.pdb
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CookieCalories\obj\Debug\net6.0\CookieCalories.csproj.AssemblyReference.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CookieCalories\obj\Debug\net6.0\CookieCalories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CookieCalories\obj\Debug\net6.0\CookieCalories.AssemblyInfoInputs.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CookieCalories\obj\Debug\net6.0\CookieCalories.AssemblyInfo.cs
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CookieCalories\obj\Debug\net6.0\CookieCalories.csproj.CoreCompileInputs.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CookieCalories\obj\Debug\net6.0\CookieCalories.dll
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CookieCalories\obj\Debug\net6.0\refint\CookieCalories.dll
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CookieCalories\obj\Debug\net6.0\CookieCalories.pdb
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CookieCalories\obj\Debug\net6.0\CookieCalories.genruntimeconfig.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CookieCalories\obj\Debug\net6.0\ref\CookieCalories.dll

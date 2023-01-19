@@ -31,6 +31,6 @@ Console.WriteLine($"The number of acres for the user supplied value is: {calcula
 /*
  * Think about:
  *      1. Proper names of variables
- *      2. Why double data type vs int data type
+ *      2. Why double data type vs int data type - reason - integer math
  */
 

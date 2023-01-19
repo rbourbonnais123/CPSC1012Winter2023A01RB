@@ -1,0 +1,15 @@
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateTestAverage\bin\Debug\net6.0\CalculateTestAverage.exe
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateTestAverage\bin\Debug\net6.0\CalculateTestAverage.deps.json
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateTestAverage\bin\Debug\net6.0\CalculateTestAverage.runtimeconfig.json
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateTestAverage\bin\Debug\net6.0\CalculateTestAverage.dll
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateTestAverage\bin\Debug\net6.0\CalculateTestAverage.pdb
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateTestAverage\obj\Debug\net6.0\CalculateTestAverage.csproj.AssemblyReference.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateTestAverage\obj\Debug\net6.0\CalculateTestAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateTestAverage\obj\Debug\net6.0\CalculateTestAverage.AssemblyInfoInputs.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateTestAverage\obj\Debug\net6.0\CalculateTestAverage.AssemblyInfo.cs
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateTestAverage\obj\Debug\net6.0\CalculateTestAverage.csproj.CoreCompileInputs.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateTestAverage\obj\Debug\net6.0\CalculateTestAverage.dll
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateTestAverage\obj\Debug\net6.0\refint\CalculateTestAverage.dll
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateTestAverage\obj\Debug\net6.0\CalculateTestAverage.pdb
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateTestAverage\obj\Debug\net6.0\CalculateTestAverage.genruntimeconfig.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateTestAverage\obj\Debug\net6.0\ref\CalculateTestAverage.dll

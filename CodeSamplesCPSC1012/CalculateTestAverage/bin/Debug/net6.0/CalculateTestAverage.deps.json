@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CalculateTestAverage/1.0.0": {
+        "runtime": {
+          "CalculateTestAverage.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculateTestAverage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
