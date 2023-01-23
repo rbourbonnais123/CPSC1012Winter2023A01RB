@@ -13,3 +13,18 @@ C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\C
 C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\CalculateTheMean\obj\Debug\net6.0\CalculateTheMean.pdb
 C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\CalculateTheMean\obj\Debug\net6.0\CalculateTheMean.genruntimeconfig.cache
 C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\CalculateTheMean\obj\Debug\net6.0\ref\CalculateTheMean.dll
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateTheMean\bin\Debug\net6.0\CalculateTheMean.exe
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateTheMean\bin\Debug\net6.0\CalculateTheMean.deps.json
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateTheMean\bin\Debug\net6.0\CalculateTheMean.runtimeconfig.json
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateTheMean\bin\Debug\net6.0\CalculateTheMean.dll
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateTheMean\bin\Debug\net6.0\CalculateTheMean.pdb
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateTheMean\obj\Debug\net6.0\CalculateTheMean.csproj.AssemblyReference.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateTheMean\obj\Debug\net6.0\CalculateTheMean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateTheMean\obj\Debug\net6.0\CalculateTheMean.AssemblyInfoInputs.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateTheMean\obj\Debug\net6.0\CalculateTheMean.AssemblyInfo.cs
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateTheMean\obj\Debug\net6.0\CalculateTheMean.csproj.CoreCompileInputs.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateTheMean\obj\Debug\net6.0\CalculateTheMean.dll
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateTheMean\obj\Debug\net6.0\refint\CalculateTheMean.dll
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateTheMean\obj\Debug\net6.0\CalculateTheMean.pdb
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateTheMean\obj\Debug\net6.0\CalculateTheMean.genruntimeconfig.cache
+C:\Users\rbourbonnais\Desktop\NAIT\CPSC1012 Winter 2023\CodeSamplesCPSC1012\CalculateTheMean\obj\Debug\net6.0\ref\CalculateTheMean.dll
