@@ -27,7 +27,7 @@ price2 = 20.00;
 tax2 = 1.00;
 total2 = 21.00;
 
-Console.WriteLine($"The price of the item is {price2}");
+Console.WriteLine($"\nThe price of the item is {price2}");
 Console.WriteLine($"The tax is {tax2}");
 Console.WriteLine($"The total is {total2}");
 
@@ -35,7 +35,7 @@ Console.WriteLine($"The total is {total2}");
 
 double price3 = 30.00, tax3 = 1.50, total3 = 31.50;
 
-Console.WriteLine($"The price of the item is {price3} the tax is {tax3} the total is {total3}");
+Console.WriteLine($"\nThe price of the item is {price3} the tax is {tax3} the total is {total3}");
 
 // OR
 
@@ -43,7 +43,7 @@ double price4 = 40.00;
 double tax4 = 2.00;
 double total4 = 42.00;
 
-Console.WriteLine($"The price of the item is {price4:f2} the tax is {tax4:f2} the total is {total4:f2}");
+Console.WriteLine($"\nThe price of the item is {price4:f2} the tax is {tax4:f2} the total is {total4:f2}");
 
 //OR
-Console.WriteLine($"The price of the item is 50.00 the tax is 2.50 the total is 52.50");
+Console.WriteLine($"\nThe price of the item is 50.00 the tax is 2.50 the total is 52.50");
