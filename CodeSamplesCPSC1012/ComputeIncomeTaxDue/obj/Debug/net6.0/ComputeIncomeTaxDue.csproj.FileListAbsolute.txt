@@ -1,0 +1,15 @@
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\ComputeIncomeTaxDue\bin\Debug\net6.0\ComputeIncomeTaxDue.exe
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\ComputeIncomeTaxDue\bin\Debug\net6.0\ComputeIncomeTaxDue.deps.json
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\ComputeIncomeTaxDue\bin\Debug\net6.0\ComputeIncomeTaxDue.runtimeconfig.json
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\ComputeIncomeTaxDue\bin\Debug\net6.0\ComputeIncomeTaxDue.dll
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\ComputeIncomeTaxDue\bin\Debug\net6.0\ComputeIncomeTaxDue.pdb
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\ComputeIncomeTaxDue\obj\Debug\net6.0\ComputeIncomeTaxDue.csproj.AssemblyReference.cache
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\ComputeIncomeTaxDue\obj\Debug\net6.0\ComputeIncomeTaxDue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\ComputeIncomeTaxDue\obj\Debug\net6.0\ComputeIncomeTaxDue.AssemblyInfoInputs.cache
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\ComputeIncomeTaxDue\obj\Debug\net6.0\ComputeIncomeTaxDue.AssemblyInfo.cs
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\ComputeIncomeTaxDue\obj\Debug\net6.0\ComputeIncomeTaxDue.csproj.CoreCompileInputs.cache
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\ComputeIncomeTaxDue\obj\Debug\net6.0\ComputeIncomeTaxDue.dll
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\ComputeIncomeTaxDue\obj\Debug\net6.0\refint\ComputeIncomeTaxDue.dll
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\ComputeIncomeTaxDue\obj\Debug\net6.0\ComputeIncomeTaxDue.pdb
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\ComputeIncomeTaxDue\obj\Debug\net6.0\ComputeIncomeTaxDue.genruntimeconfig.cache
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\ComputeIncomeTaxDue\obj\Debug\net6.0\ref\ComputeIncomeTaxDue.dll

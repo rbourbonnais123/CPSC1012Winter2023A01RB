@@ -1,0 +1,15 @@
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\CostOfAdmission\bin\Debug\net6.0\CostOfAdmission.exe
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\CostOfAdmission\bin\Debug\net6.0\CostOfAdmission.deps.json
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\CostOfAdmission\bin\Debug\net6.0\CostOfAdmission.runtimeconfig.json
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\CostOfAdmission\bin\Debug\net6.0\CostOfAdmission.dll
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\CostOfAdmission\bin\Debug\net6.0\CostOfAdmission.pdb
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\CostOfAdmission\obj\Debug\net6.0\CostOfAdmission.csproj.AssemblyReference.cache
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\CostOfAdmission\obj\Debug\net6.0\CostOfAdmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\CostOfAdmission\obj\Debug\net6.0\CostOfAdmission.AssemblyInfoInputs.cache
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\CostOfAdmission\obj\Debug\net6.0\CostOfAdmission.AssemblyInfo.cs
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\CostOfAdmission\obj\Debug\net6.0\CostOfAdmission.csproj.CoreCompileInputs.cache
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\CostOfAdmission\obj\Debug\net6.0\CostOfAdmission.dll
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\CostOfAdmission\obj\Debug\net6.0\refint\CostOfAdmission.dll
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\CostOfAdmission\obj\Debug\net6.0\CostOfAdmission.pdb
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\CostOfAdmission\obj\Debug\net6.0\CostOfAdmission.genruntimeconfig.cache
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\CostOfAdmission\obj\Debug\net6.0\ref\CostOfAdmission.dll

@@ -1,0 +1,15 @@
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\UserNameAndMark\bin\Debug\net6.0\UserNameAndMark.exe
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\UserNameAndMark\bin\Debug\net6.0\UserNameAndMark.deps.json
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\UserNameAndMark\bin\Debug\net6.0\UserNameAndMark.runtimeconfig.json
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\UserNameAndMark\bin\Debug\net6.0\UserNameAndMark.dll
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\UserNameAndMark\bin\Debug\net6.0\UserNameAndMark.pdb
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\UserNameAndMark\obj\Debug\net6.0\UserNameAndMark.csproj.AssemblyReference.cache
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\UserNameAndMark\obj\Debug\net6.0\UserNameAndMark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\UserNameAndMark\obj\Debug\net6.0\UserNameAndMark.AssemblyInfoInputs.cache
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\UserNameAndMark\obj\Debug\net6.0\UserNameAndMark.AssemblyInfo.cs
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\UserNameAndMark\obj\Debug\net6.0\UserNameAndMark.csproj.CoreCompileInputs.cache
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\UserNameAndMark\obj\Debug\net6.0\UserNameAndMark.dll
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\UserNameAndMark\obj\Debug\net6.0\refint\UserNameAndMark.dll
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\UserNameAndMark\obj\Debug\net6.0\UserNameAndMark.pdb
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\UserNameAndMark\obj\Debug\net6.0\UserNameAndMark.genruntimeconfig.cache
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\UserNameAndMark\obj\Debug\net6.0\ref\UserNameAndMark.dll

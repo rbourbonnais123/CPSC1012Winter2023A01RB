@@ -21,7 +21,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CookieCalories", "CookieCal
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculateTestAverage", "CalculateTestAverage\CalculateTestAverage.csproj", "{3AB1C169-AA37-4B04-8441-67783F30C7E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateTheMean", "CalculateTheMean\CalculateTheMean.csproj", "{6297DAC0-2653-4742-9FF5-2CC70BDE4355}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculateTheMean", "CalculateTheMean\CalculateTheMean.csproj", "{6297DAC0-2653-4742-9FF5-2CC70BDE4355}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PositiveNegativeOrZero", "PositiveNegativeOrZero\PositiveNegativeOrZero.csproj", "{FD4E2BE1-5378-434C-B10A-F43E8A7F2D32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CostOfAdmission", "CostOfAdmission\CostOfAdmission.csproj", "{9024AC79-AD18-4AFD-B639-9B40DB211868}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserNameAndMark", "UserNameAndMark\UserNameAndMark.csproj", "{BCB1B4A0-21ED-4B97-8181-EDD13C9E9413}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputeIncomeTaxDue", "ComputeIncomeTaxDue\ComputeIncomeTaxDue.csproj", "{1CE84645-4593-4E61-A8F7-8BBE9BA995FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +77,22 @@ Global
 		{6297DAC0-2653-4742-9FF5-2CC70BDE4355}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6297DAC0-2653-4742-9FF5-2CC70BDE4355}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6297DAC0-2653-4742-9FF5-2CC70BDE4355}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD4E2BE1-5378-434C-B10A-F43E8A7F2D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD4E2BE1-5378-434C-B10A-F43E8A7F2D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD4E2BE1-5378-434C-B10A-F43E8A7F2D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD4E2BE1-5378-434C-B10A-F43E8A7F2D32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9024AC79-AD18-4AFD-B639-9B40DB211868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9024AC79-AD18-4AFD-B639-9B40DB211868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9024AC79-AD18-4AFD-B639-9B40DB211868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9024AC79-AD18-4AFD-B639-9B40DB211868}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCB1B4A0-21ED-4B97-8181-EDD13C9E9413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCB1B4A0-21ED-4B97-8181-EDD13C9E9413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCB1B4A0-21ED-4B97-8181-EDD13C9E9413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCB1B4A0-21ED-4B97-8181-EDD13C9E9413}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CE84645-4593-4E61-A8F7-8BBE9BA995FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CE84645-4593-4E61-A8F7-8BBE9BA995FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CE84645-4593-4E61-A8F7-8BBE9BA995FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CE84645-4593-4E61-A8F7-8BBE9BA995FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

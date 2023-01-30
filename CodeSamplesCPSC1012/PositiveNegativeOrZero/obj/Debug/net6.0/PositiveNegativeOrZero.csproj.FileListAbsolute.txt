@@ -1,0 +1,15 @@
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\PositiveNegativeOrZero\bin\Debug\net6.0\PositiveNegativeOrZero.exe
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\PositiveNegativeOrZero\bin\Debug\net6.0\PositiveNegativeOrZero.deps.json
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\PositiveNegativeOrZero\bin\Debug\net6.0\PositiveNegativeOrZero.runtimeconfig.json
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\PositiveNegativeOrZero\bin\Debug\net6.0\PositiveNegativeOrZero.dll
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\PositiveNegativeOrZero\bin\Debug\net6.0\PositiveNegativeOrZero.pdb
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\PositiveNegativeOrZero\obj\Debug\net6.0\PositiveNegativeOrZero.csproj.AssemblyReference.cache
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\PositiveNegativeOrZero\obj\Debug\net6.0\PositiveNegativeOrZero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\PositiveNegativeOrZero\obj\Debug\net6.0\PositiveNegativeOrZero.AssemblyInfoInputs.cache
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\PositiveNegativeOrZero\obj\Debug\net6.0\PositiveNegativeOrZero.AssemblyInfo.cs
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\PositiveNegativeOrZero\obj\Debug\net6.0\PositiveNegativeOrZero.csproj.CoreCompileInputs.cache
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\PositiveNegativeOrZero\obj\Debug\net6.0\PositiveNegativeOrZero.dll
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\PositiveNegativeOrZero\obj\Debug\net6.0\refint\PositiveNegativeOrZero.dll
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\PositiveNegativeOrZero\obj\Debug\net6.0\PositiveNegativeOrZero.pdb
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\PositiveNegativeOrZero\obj\Debug\net6.0\PositiveNegativeOrZero.genruntimeconfig.cache
+C:\Users\rbourbonnais\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\PositiveNegativeOrZero\obj\Debug\net6.0\ref\PositiveNegativeOrZero.dll

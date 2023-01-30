@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rbourbonnais\\Desktop\\NAIT\\CPSC1012 Winter 2023\\CodeSamplesCPSC1012\\HelloWorldOld\\HelloWorldOld.csproj": {}
+    "C:\\Users\\rbourbonnais\\Source\\Repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\HelloWorldOld\\HelloWorldOld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rbourbonnais\\Desktop\\NAIT\\CPSC1012 Winter 2023\\CodeSamplesCPSC1012\\HelloWorldOld\\HelloWorldOld.csproj": {
+    "C:\\Users\\rbourbonnais\\Source\\Repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\HelloWorldOld\\HelloWorldOld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rbourbonnais\\Desktop\\NAIT\\CPSC1012 Winter 2023\\CodeSamplesCPSC1012\\HelloWorldOld\\HelloWorldOld.csproj",
+        "projectUniqueName": "C:\\Users\\rbourbonnais\\Source\\Repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\HelloWorldOld\\HelloWorldOld.csproj",
         "projectName": "HelloWorldOld",
-        "projectPath": "C:\\Users\\rbourbonnais\\Desktop\\NAIT\\CPSC1012 Winter 2023\\CodeSamplesCPSC1012\\HelloWorldOld\\HelloWorldOld.csproj",
+        "projectPath": "C:\\Users\\rbourbonnais\\Source\\Repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\HelloWorldOld\\HelloWorldOld.csproj",
         "packagesPath": "C:\\Users\\rbourbonnais\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rbourbonnais\\Desktop\\NAIT\\CPSC1012 Winter 2023\\CodeSamplesCPSC1012\\HelloWorldOld\\obj\\",
+        "outputPath": "C:\\Users\\rbourbonnais\\Source\\Repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\HelloWorldOld\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\rbourbonnais\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
