@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rbourbonnais\\Source\\Repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\CalculateTestAverage\\CalculateTestAverage.csproj": {}
+    "C:\\Users\\Rob\\Source\\Repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\CalculateTestAverage\\CalculateTestAverage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rbourbonnais\\Source\\Repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\CalculateTestAverage\\CalculateTestAverage.csproj": {
+    "C:\\Users\\Rob\\Source\\Repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\CalculateTestAverage\\CalculateTestAverage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rbourbonnais\\Source\\Repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\CalculateTestAverage\\CalculateTestAverage.csproj",
+        "projectUniqueName": "C:\\Users\\Rob\\Source\\Repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\CalculateTestAverage\\CalculateTestAverage.csproj",
         "projectName": "CalculateTestAverage",
-        "projectPath": "C:\\Users\\rbourbonnais\\Source\\Repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\CalculateTestAverage\\CalculateTestAverage.csproj",
-        "packagesPath": "C:\\Users\\rbourbonnais\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rbourbonnais\\Source\\Repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\CalculateTestAverage\\obj\\",
+        "projectPath": "C:\\Users\\Rob\\Source\\Repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\CalculateTestAverage\\CalculateTestAverage.csproj",
+        "packagesPath": "C:\\Users\\Rob\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rob\\Source\\Repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\CalculateTestAverage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\rbourbonnais\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rob\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
