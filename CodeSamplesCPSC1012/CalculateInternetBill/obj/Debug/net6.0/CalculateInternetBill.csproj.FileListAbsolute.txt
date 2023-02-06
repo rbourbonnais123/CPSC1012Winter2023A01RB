@@ -1,0 +1,15 @@
+C:\Users\Rob\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\CalculateInternetBill\obj\Debug\net6.0\CalculateInternetBill.csproj.AssemblyReference.cache
+C:\Users\Rob\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\CalculateInternetBill\obj\Debug\net6.0\CalculateInternetBill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rob\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\CalculateInternetBill\obj\Debug\net6.0\CalculateInternetBill.AssemblyInfoInputs.cache
+C:\Users\Rob\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\CalculateInternetBill\obj\Debug\net6.0\CalculateInternetBill.AssemblyInfo.cs
+C:\Users\Rob\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\CalculateInternetBill\obj\Debug\net6.0\CalculateInternetBill.csproj.CoreCompileInputs.cache
+C:\Users\Rob\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\CalculateInternetBill\bin\Debug\net6.0\CalculateInternetBill.exe
+C:\Users\Rob\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\CalculateInternetBill\bin\Debug\net6.0\CalculateInternetBill.deps.json
+C:\Users\Rob\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\CalculateInternetBill\bin\Debug\net6.0\CalculateInternetBill.runtimeconfig.json
+C:\Users\Rob\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\CalculateInternetBill\bin\Debug\net6.0\CalculateInternetBill.dll
+C:\Users\Rob\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\CalculateInternetBill\bin\Debug\net6.0\CalculateInternetBill.pdb
+C:\Users\Rob\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\CalculateInternetBill\obj\Debug\net6.0\CalculateInternetBill.dll
+C:\Users\Rob\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\CalculateInternetBill\obj\Debug\net6.0\refint\CalculateInternetBill.dll
+C:\Users\Rob\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\CalculateInternetBill\obj\Debug\net6.0\CalculateInternetBill.pdb
+C:\Users\Rob\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\CalculateInternetBill\obj\Debug\net6.0\CalculateInternetBill.genruntimeconfig.cache
+C:\Users\Rob\Source\Repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\CalculateInternetBill\obj\Debug\net6.0\ref\CalculateInternetBill.dll
