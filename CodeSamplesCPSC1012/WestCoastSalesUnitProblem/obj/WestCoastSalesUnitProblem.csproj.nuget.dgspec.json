@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rbourbonnais\\Source\\Repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\WestCoastSalesUnitProblem\\WestCoastSalesUnitProblem.csproj": {}
+    "C:\\Users\\rbourbonnais\\source\\repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\WestCoastSalesUnitProblem\\WestCoastSalesUnitProblem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rbourbonnais\\Source\\Repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\WestCoastSalesUnitProblem\\WestCoastSalesUnitProblem.csproj": {
+    "C:\\Users\\rbourbonnais\\source\\repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\WestCoastSalesUnitProblem\\WestCoastSalesUnitProblem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rbourbonnais\\Source\\Repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\WestCoastSalesUnitProblem\\WestCoastSalesUnitProblem.csproj",
+        "projectUniqueName": "C:\\Users\\rbourbonnais\\source\\repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\WestCoastSalesUnitProblem\\WestCoastSalesUnitProblem.csproj",
         "projectName": "WestCoastSalesUnitProblem",
-        "projectPath": "C:\\Users\\rbourbonnais\\Source\\Repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\WestCoastSalesUnitProblem\\WestCoastSalesUnitProblem.csproj",
+        "projectPath": "C:\\Users\\rbourbonnais\\source\\repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\WestCoastSalesUnitProblem\\WestCoastSalesUnitProblem.csproj",
         "packagesPath": "C:\\Users\\rbourbonnais\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rbourbonnais\\Source\\Repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\WestCoastSalesUnitProblem\\obj\\",
+        "outputPath": "C:\\Users\\rbourbonnais\\source\\repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\WestCoastSalesUnitProblem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rbourbonnais\\AppData\\Roaming\\NuGet\\NuGet.Config",

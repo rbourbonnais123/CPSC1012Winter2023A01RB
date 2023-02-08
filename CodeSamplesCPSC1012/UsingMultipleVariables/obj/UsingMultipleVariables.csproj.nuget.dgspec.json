@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rbourbonnais\\Source\\Repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\UsingMultipleVariables\\UsingMultipleVariables.csproj": {}
+    "C:\\Users\\rbourbonnais\\source\\repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\UsingMultipleVariables\\UsingMultipleVariables.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rbourbonnais\\Source\\Repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\UsingMultipleVariables\\UsingMultipleVariables.csproj": {
+    "C:\\Users\\rbourbonnais\\source\\repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\UsingMultipleVariables\\UsingMultipleVariables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rbourbonnais\\Source\\Repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\UsingMultipleVariables\\UsingMultipleVariables.csproj",
+        "projectUniqueName": "C:\\Users\\rbourbonnais\\source\\repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\UsingMultipleVariables\\UsingMultipleVariables.csproj",
         "projectName": "UsingMultipleVariables",
-        "projectPath": "C:\\Users\\rbourbonnais\\Source\\Repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\UsingMultipleVariables\\UsingMultipleVariables.csproj",
+        "projectPath": "C:\\Users\\rbourbonnais\\source\\repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\UsingMultipleVariables\\UsingMultipleVariables.csproj",
         "packagesPath": "C:\\Users\\rbourbonnais\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rbourbonnais\\Source\\Repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\UsingMultipleVariables\\obj\\",
+        "outputPath": "C:\\Users\\rbourbonnais\\source\\repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\UsingMultipleVariables\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rbourbonnais\\AppData\\Roaming\\NuGet\\NuGet.Config",

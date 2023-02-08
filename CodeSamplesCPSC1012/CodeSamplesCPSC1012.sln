@@ -31,7 +31,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserNameAndMark", "UserName
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComputeIncomeTaxDue", "ComputeIncomeTaxDue\ComputeIncomeTaxDue.csproj", "{1CE84645-4593-4E61-A8F7-8BBE9BA995FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateInternetBill", "CalculateInternetBill\CalculateInternetBill.csproj", "{CFAD7EF8-AA8F-4376-B5D5-CEF33DBFEED9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculateInternetBill", "CalculateInternetBill\CalculateInternetBill.csproj", "{CFAD7EF8-AA8F-4376-B5D5-CEF33DBFEED9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitConversion", "UnitConversion\UnitConversion.csproj", "{0982A8AE-3D79-4BDA-B777-7B1CE7A0770E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{CFAD7EF8-AA8F-4376-B5D5-CEF33DBFEED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFAD7EF8-AA8F-4376-B5D5-CEF33DBFEED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFAD7EF8-AA8F-4376-B5D5-CEF33DBFEED9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0982A8AE-3D79-4BDA-B777-7B1CE7A0770E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0982A8AE-3D79-4BDA-B777-7B1CE7A0770E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0982A8AE-3D79-4BDA-B777-7B1CE7A0770E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0982A8AE-3D79-4BDA-B777-7B1CE7A0770E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

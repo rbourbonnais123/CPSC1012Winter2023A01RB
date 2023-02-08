@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rbourbonnais\\Source\\Repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\CalculateInternetBill\\CalculateInternetBill.csproj",
+      "projectUniqueName": "C:\\Users\\rbourbonnais\\source\\repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\CalculateInternetBill\\CalculateInternetBill.csproj",
       "projectName": "CalculateInternetBill",
-      "projectPath": "C:\\Users\\rbourbonnais\\Source\\Repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\CalculateInternetBill\\CalculateInternetBill.csproj",
+      "projectPath": "C:\\Users\\rbourbonnais\\source\\repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\CalculateInternetBill\\CalculateInternetBill.csproj",
       "packagesPath": "C:\\Users\\rbourbonnais\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rbourbonnais\\Source\\Repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\CalculateInternetBill\\obj\\",
+      "outputPath": "C:\\Users\\rbourbonnais\\source\\repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\CalculateInternetBill\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rbourbonnais\\AppData\\Roaming\\NuGet\\NuGet.Config",

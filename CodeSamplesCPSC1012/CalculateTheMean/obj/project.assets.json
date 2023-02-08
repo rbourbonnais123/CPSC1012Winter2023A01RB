@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rbourbonnais\\Source\\Repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\CalculateTheMean\\CalculateTheMean.csproj",
+      "projectUniqueName": "C:\\Users\\rbourbonnais\\source\\repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\CalculateTheMean\\CalculateTheMean.csproj",
       "projectName": "CalculateTheMean",
-      "projectPath": "C:\\Users\\rbourbonnais\\Source\\Repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\CalculateTheMean\\CalculateTheMean.csproj",
+      "projectPath": "C:\\Users\\rbourbonnais\\source\\repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\CalculateTheMean\\CalculateTheMean.csproj",
       "packagesPath": "C:\\Users\\rbourbonnais\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rbourbonnais\\Source\\Repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\CalculateTheMean\\obj\\",
+      "outputPath": "C:\\Users\\rbourbonnais\\source\\repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\CalculateTheMean\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rbourbonnais\\AppData\\Roaming\\NuGet\\NuGet.Config",

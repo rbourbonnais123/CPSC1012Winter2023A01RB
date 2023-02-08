@@ -1,0 +1,15 @@
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\UnitConversion\obj\Debug\net6.0\UnitConversion.csproj.AssemblyReference.cache
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\UnitConversion\obj\Debug\net6.0\UnitConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\UnitConversion\obj\Debug\net6.0\UnitConversion.AssemblyInfoInputs.cache
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\UnitConversion\obj\Debug\net6.0\UnitConversion.AssemblyInfo.cs
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\UnitConversion\obj\Debug\net6.0\UnitConversion.csproj.CoreCompileInputs.cache
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\UnitConversion\bin\Debug\net6.0\UnitConversion.exe
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\UnitConversion\bin\Debug\net6.0\UnitConversion.deps.json
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\UnitConversion\bin\Debug\net6.0\UnitConversion.runtimeconfig.json
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\UnitConversion\bin\Debug\net6.0\UnitConversion.dll
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\UnitConversion\bin\Debug\net6.0\UnitConversion.pdb
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\UnitConversion\obj\Debug\net6.0\UnitConversion.dll
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\UnitConversion\obj\Debug\net6.0\refint\UnitConversion.dll
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\UnitConversion\obj\Debug\net6.0\UnitConversion.pdb
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\UnitConversion\obj\Debug\net6.0\UnitConversion.genruntimeconfig.cache
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\UnitConversion\obj\Debug\net6.0\ref\UnitConversion.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rbourbonnais\\Source\\Repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\WriteVSWriteLine\\WriteVSWriteLine.csproj": {}
+    "C:\\Users\\rbourbonnais\\source\\repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\WriteVSWriteLine\\WriteVSWriteLine.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rbourbonnais\\Source\\Repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\WriteVSWriteLine\\WriteVSWriteLine.csproj": {
+    "C:\\Users\\rbourbonnais\\source\\repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\WriteVSWriteLine\\WriteVSWriteLine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rbourbonnais\\Source\\Repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\WriteVSWriteLine\\WriteVSWriteLine.csproj",
+        "projectUniqueName": "C:\\Users\\rbourbonnais\\source\\repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\WriteVSWriteLine\\WriteVSWriteLine.csproj",
         "projectName": "WriteVSWriteLine",
-        "projectPath": "C:\\Users\\rbourbonnais\\Source\\Repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\WriteVSWriteLine\\WriteVSWriteLine.csproj",
+        "projectPath": "C:\\Users\\rbourbonnais\\source\\repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\WriteVSWriteLine\\WriteVSWriteLine.csproj",
         "packagesPath": "C:\\Users\\rbourbonnais\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rbourbonnais\\Source\\Repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\WriteVSWriteLine\\obj\\",
+        "outputPath": "C:\\Users\\rbourbonnais\\source\\repos\\CPSC1012Winter2023A01RB\\CodeSamplesCPSC1012\\WriteVSWriteLine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rbourbonnais\\AppData\\Roaming\\NuGet\\NuGet.Config",
