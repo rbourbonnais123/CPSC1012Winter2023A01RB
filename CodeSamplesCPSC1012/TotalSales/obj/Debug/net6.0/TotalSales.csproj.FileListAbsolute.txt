@@ -1,0 +1,15 @@
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\TotalSales\bin\Debug\net6.0\TotalSales.exe
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\TotalSales\bin\Debug\net6.0\TotalSales.deps.json
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\TotalSales\bin\Debug\net6.0\TotalSales.runtimeconfig.json
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\TotalSales\bin\Debug\net6.0\TotalSales.dll
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\TotalSales\bin\Debug\net6.0\TotalSales.pdb
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\TotalSales\obj\Debug\net6.0\TotalSales.csproj.AssemblyReference.cache
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\TotalSales\obj\Debug\net6.0\TotalSales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\TotalSales\obj\Debug\net6.0\TotalSales.AssemblyInfoInputs.cache
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\TotalSales\obj\Debug\net6.0\TotalSales.AssemblyInfo.cs
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\TotalSales\obj\Debug\net6.0\TotalSales.csproj.CoreCompileInputs.cache
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\TotalSales\obj\Debug\net6.0\TotalSales.dll
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\TotalSales\obj\Debug\net6.0\refint\TotalSales.dll
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\TotalSales\obj\Debug\net6.0\TotalSales.pdb
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\TotalSales\obj\Debug\net6.0\TotalSales.genruntimeconfig.cache
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\TotalSales\obj\Debug\net6.0\ref\TotalSales.dll

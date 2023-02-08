@@ -35,6 +35,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculateInternetBill", "Ca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitConversion", "UnitConversion\UnitConversion.csproj", "{0982A8AE-3D79-4BDA-B777-7B1CE7A0770E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotalSales", "TotalSales\TotalSales.csproj", "{57B9EF32-A4CE-413C-8AA2-7AC3F5D1DD13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{0982A8AE-3D79-4BDA-B777-7B1CE7A0770E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0982A8AE-3D79-4BDA-B777-7B1CE7A0770E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0982A8AE-3D79-4BDA-B777-7B1CE7A0770E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57B9EF32-A4CE-413C-8AA2-7AC3F5D1DD13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57B9EF32-A4CE-413C-8AA2-7AC3F5D1DD13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57B9EF32-A4CE-413C-8AA2-7AC3F5D1DD13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57B9EF32-A4CE-413C-8AA2-7AC3F5D1DD13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
