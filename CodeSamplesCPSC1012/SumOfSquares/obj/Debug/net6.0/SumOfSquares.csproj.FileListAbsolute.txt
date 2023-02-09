@@ -1,0 +1,15 @@
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\SumOfSquares\bin\Debug\net6.0\SumOfSquares.exe
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\SumOfSquares\bin\Debug\net6.0\SumOfSquares.deps.json
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\SumOfSquares\bin\Debug\net6.0\SumOfSquares.runtimeconfig.json
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\SumOfSquares\bin\Debug\net6.0\SumOfSquares.dll
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\SumOfSquares\bin\Debug\net6.0\SumOfSquares.pdb
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\SumOfSquares\obj\Debug\net6.0\SumOfSquares.csproj.AssemblyReference.cache
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\SumOfSquares\obj\Debug\net6.0\SumOfSquares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\SumOfSquares\obj\Debug\net6.0\SumOfSquares.AssemblyInfoInputs.cache
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\SumOfSquares\obj\Debug\net6.0\SumOfSquares.AssemblyInfo.cs
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\SumOfSquares\obj\Debug\net6.0\SumOfSquares.csproj.CoreCompileInputs.cache
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\SumOfSquares\obj\Debug\net6.0\SumOfSquares.dll
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\SumOfSquares\obj\Debug\net6.0\refint\SumOfSquares.dll
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\SumOfSquares\obj\Debug\net6.0\SumOfSquares.pdb
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\SumOfSquares\obj\Debug\net6.0\SumOfSquares.genruntimeconfig.cache
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\SumOfSquares\obj\Debug\net6.0\ref\SumOfSquares.dll
