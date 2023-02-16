@@ -37,11 +37,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitConversion", "UnitConve
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TotalSales", "TotalSales\TotalSales.csproj", "{57B9EF32-A4CE-413C-8AA2-7AC3F5D1DD13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfSquares", "SumOfSquares\SumOfSquares.csproj", "{0FCBA10F-FA32-4868-8093-F9A52E0BC575}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfSquares", "SumOfSquares\SumOfSquares.csproj", "{0FCBA10F-FA32-4868-8093-F9A52E0BC575}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddNumbersUntilZeroInput", "AddNumbersUntilZeroInput\AddNumbersUntilZeroInput.csproj", "{D5C758E3-9885-4B10-94E7-53237F078DDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddNumbersUntilZeroInput", "AddNumbersUntilZeroInput\AddNumbersUntilZeroInput.csproj", "{D5C758E3-9885-4B10-94E7-53237F078DDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadInNumberPrintInColumnFormat", "ReadInNumberPrintInColumnFormat\ReadInNumberPrintInColumnFormat.csproj", "{45C65D3C-1E9B-43C7-A809-30219862A76B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadInNumberPrintInColumnFormat", "ReadInNumberPrintInColumnFormat\ReadInNumberPrintInColumnFormat.csproj", "{45C65D3C-1E9B-43C7-A809-30219862A76B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayCalander", "DisplayCalander\DisplayCalander.csproj", "{294A709C-95AF-4323-9BB7-C386B4B5B297}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{45C65D3C-1E9B-43C7-A809-30219862A76B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45C65D3C-1E9B-43C7-A809-30219862A76B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45C65D3C-1E9B-43C7-A809-30219862A76B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{294A709C-95AF-4323-9BB7-C386B4B5B297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294A709C-95AF-4323-9BB7-C386B4B5B297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294A709C-95AF-4323-9BB7-C386B4B5B297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294A709C-95AF-4323-9BB7-C386B4B5B297}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

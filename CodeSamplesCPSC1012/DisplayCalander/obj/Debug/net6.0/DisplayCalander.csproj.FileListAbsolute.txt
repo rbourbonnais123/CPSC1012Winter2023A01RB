@@ -1,0 +1,15 @@
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\DisplayCalander\bin\Debug\net6.0\DisplayCalander.exe
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\DisplayCalander\bin\Debug\net6.0\DisplayCalander.deps.json
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\DisplayCalander\bin\Debug\net6.0\DisplayCalander.runtimeconfig.json
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\DisplayCalander\bin\Debug\net6.0\DisplayCalander.dll
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\DisplayCalander\bin\Debug\net6.0\DisplayCalander.pdb
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\DisplayCalander\obj\Debug\net6.0\DisplayCalander.csproj.AssemblyReference.cache
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\DisplayCalander\obj\Debug\net6.0\DisplayCalander.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\DisplayCalander\obj\Debug\net6.0\DisplayCalander.AssemblyInfoInputs.cache
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\DisplayCalander\obj\Debug\net6.0\DisplayCalander.AssemblyInfo.cs
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\DisplayCalander\obj\Debug\net6.0\DisplayCalander.csproj.CoreCompileInputs.cache
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\DisplayCalander\obj\Debug\net6.0\DisplayCalander.dll
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\DisplayCalander\obj\Debug\net6.0\refint\DisplayCalander.dll
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\DisplayCalander\obj\Debug\net6.0\DisplayCalander.pdb
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\DisplayCalander\obj\Debug\net6.0\DisplayCalander.genruntimeconfig.cache
+C:\Users\rbourbonnais\source\repos\CPSC1012Winter2023A01RB\CodeSamplesCPSC1012\DisplayCalander\obj\Debug\net6.0\ref\DisplayCalander.dll
